@@ -1,7 +1,7 @@
 # Automated Narrative Detection (Reordering Unstructured Fact-Checked Claims into Narratives)
 
 ## Project Overview
-Welcome to the repository for the "Reordering Unstructured Fact-Checked Claims into Narratives" initiative, also known as the Automated Narrative Discovery project. We aim to transform unstructured fact-checked claims into well-defined narratives using automated techniques. We aim to enable a deeper understanding of how disparate pieces of verified information can be woven into coherent stories, particularly within large datasets.
+Welcome to the repository for the "Reordering Unstructured Fact-Checked Claims into Narratives" initiative, also known as the Automated Narrative Discovery project. Using different text-mining techniques, we established a  framework for unstructured fact-checked claims and transformed them into well-defined narratives. We aim to enable a deeper understanding of how disparate pieces of verified information can be woven into coherent stories, particularly within large datasets.
 
 ## 📁 Components
 
