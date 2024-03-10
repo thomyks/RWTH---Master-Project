@@ -19,3 +19,6 @@ Explore the real-world applicability of our methodologies with a case study cent
 
 ### ✔️ Evaluation
 Our evaluation segment details a thorough two-tiered testing procedure that assesses the robustness of our framework. By examining both the narrative and topic outputs, we ensure the accuracy and depth of our analytical models.
+
+### 📝 Final Report and Presentation
+Within this directory, you will find a comprehensive report and presentation detailing the methodologies and findings of our project. It serves as a culmination of the research and offers an in-depth discussion of the results and their implications.
