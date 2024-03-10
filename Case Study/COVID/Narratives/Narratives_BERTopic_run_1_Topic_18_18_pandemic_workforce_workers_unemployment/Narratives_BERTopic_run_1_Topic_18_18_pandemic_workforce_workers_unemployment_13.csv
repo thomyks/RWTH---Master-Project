@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+15621,20051,36667,355,http://data.gesis.org/claimskg/creative_work/b6295229-851c-56d1-b5b3-0d3c0adc28ff,"With the ongoing pandemic, our State Park attendance is at the highest it’s ever been.",politifact,English,True,3,State Park,['State Park'],1.0,15,en,18,18_pandemic_workforce_workers_unemployment

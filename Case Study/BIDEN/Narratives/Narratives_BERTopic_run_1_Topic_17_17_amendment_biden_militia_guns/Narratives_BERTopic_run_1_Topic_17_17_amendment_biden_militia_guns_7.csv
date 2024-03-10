@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+32840,38160,61827,3667,http://data.gesis.org/claimskg/creative_work/c2b22f47-738f-5cbe-bbb7-dbc70be23c87,"U.S. President Joe Biden said, Do you realize the bullet out of an AR-15 travels five times as rapidly as a bullet shot out of any other gun... ?",snopes,English,True,3,"AR-15, U.S. President Joe Biden","['AR-15', ' U.S. President Joe Biden']",2.0,29,en,17,17_amendment_biden_militia_guns

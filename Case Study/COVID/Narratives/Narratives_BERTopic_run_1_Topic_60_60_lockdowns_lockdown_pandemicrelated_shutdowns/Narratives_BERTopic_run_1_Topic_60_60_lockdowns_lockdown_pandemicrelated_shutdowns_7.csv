@@ -1,0 +1,3 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+12344,16706,46241,7414,http://data.gesis.org/claimskg/creative_work/950cb42e-e4af-535f-b614-903c26ef16a6,Government imposed lockdowns do NOT reduce [COVID-19] cases or stop spikes.,politifact,English,False,1,COVID-19,['COVID-19'],1.0,11,en,60,60_lockdowns_lockdown_pandemicrelated_shutdowns
+22783,27928,23126,1581,http://data.gesis.org/claimskg/creative_work/9d8056bf-caa7-558e-a361-12df259becb9,Lockdown and the tier systems are deadlier than Covid-19.,fullfact,English,TRUE,3,Covid-19,['Covid-19'],1.0,9,en,60,60_lockdowns_lockdown_pandemicrelated_shutdowns

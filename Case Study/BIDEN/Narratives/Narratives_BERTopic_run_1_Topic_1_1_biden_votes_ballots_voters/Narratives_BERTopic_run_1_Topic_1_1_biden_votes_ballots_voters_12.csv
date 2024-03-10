@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+16920,21422,40406,1579,http://data.gesis.org/claimskg/creative_work/983974b6-85b1-5297-ba17-7d2224d73694,"Biden lead disappears in NV, AZ, GA, PA.",politifact,English,False,1,AZ,['AZ'],1.0,8,en,1,1_biden_votes_ballots_voters

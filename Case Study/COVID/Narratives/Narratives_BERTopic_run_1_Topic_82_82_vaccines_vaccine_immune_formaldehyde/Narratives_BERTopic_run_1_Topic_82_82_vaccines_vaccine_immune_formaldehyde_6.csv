@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+23196,28350,23516,1971,http://data.gesis.org/claimskg/creative_work/21a71084-a6f2-5dd8-b9a4-8fb7dc0e808c,Latex rubber is in vaccines and causes life-threatening allergic reactions.,fullfact,English,FALSE,1,allergic reactions,['allergic reactions'],1.0,10,en,82,82_vaccines_vaccine_immune_formaldehyde

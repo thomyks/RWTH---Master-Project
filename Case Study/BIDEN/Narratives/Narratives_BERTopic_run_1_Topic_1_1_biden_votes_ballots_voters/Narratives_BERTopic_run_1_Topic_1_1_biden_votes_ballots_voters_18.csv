@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+20984,25960,17727,6379,http://data.gesis.org/claimskg/creative_work/482fcf4d-2f50-5ed1-a470-d1c14dbfc801,"Post compares Biden/Trump crowds, tell voters no to trust pollsters",factcheck_afp,English,FALSE,1,Biden,['Biden'],1.0,10,en,1,1_biden_votes_ballots_voters

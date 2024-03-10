@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+7868,12165,29803,656,http://data.gesis.org/claimskg/creative_work/75689a6e-36b8-5ef2-b8ad-caf753f45004,Cities and states have banned reusable shopping bags to help slow the spread of the COVID-19 pandemic.,truthorfiction,English,MIXTURE,2,spread of the COVID-19 pandemic,['spread of the COVID-19 pandemic'],1.0,17,en,25,25_walmart_shopping_covid19_retail

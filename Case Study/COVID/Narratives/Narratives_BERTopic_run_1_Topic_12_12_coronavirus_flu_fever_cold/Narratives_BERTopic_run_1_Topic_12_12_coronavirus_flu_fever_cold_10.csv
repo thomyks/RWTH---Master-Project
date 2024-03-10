@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+37280,42689,16641,5293,http://data.gesis.org/claimskg/creative_work/6f188f08-002d-59d5-9b7c-274564415ea2,The corona virus is possibly caused due to the use of rhino horn,factcheck_afp,English,FALSE,1,"corona virus, rhino horn","['corona virus', ' rhino horn']",2.0,13,en,12,12_coronavirus_flu_fever_cold

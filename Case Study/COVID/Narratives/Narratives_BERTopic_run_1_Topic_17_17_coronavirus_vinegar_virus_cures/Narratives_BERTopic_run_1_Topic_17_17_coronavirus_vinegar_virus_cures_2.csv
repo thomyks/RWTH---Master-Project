@@ -1,0 +1,4 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+186,1568,17740,6392,http://data.gesis.org/claimskg/creative_work/0d7c88ee-912e-50bc-97d1-af0afcc32531,Covid patients should not shower.,factcheck_afp,English,FALSE,1,,,0.0,5,en,17,17_coronavirus_vinegar_virus_cures
+2254,4337,14185,2837,http://data.gesis.org/claimskg/creative_work/cc4ccbc9-8559-5e48-85bc-3467087667c8,Bathing in hot water can prevent novel coronavirus,factcheck_afp,English,FALSE,1,,,0.0,8,en,17,17_coronavirus_vinegar_virus_cures
+29356,34646,2340,2340,http://data.gesis.org/claimskg/creative_work/9d64ced4-cee3-5467-9e21-efd2fa9bab27,"Hot baths, hot hand dryers and other heat will NOT kill coronavirus",africacheck,English,FALSE,1,"Hot baths, hand dryers","['Hot baths', ' hand dryers']",2.0,12,en,17,17_coronavirus_vinegar_virus_cures

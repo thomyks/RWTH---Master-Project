@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+39385,44920,24125,2580,http://data.gesis.org/claimskg/creative_work/8c8ecb97-a86e-502a-bf23-b9add32cbe2e,The sudden spike in deaths during the pandemic was largely the result of lethal midazolam and morphine injections.,fullfact,English,OTHER,-1,"midazolam, morphine","['midazolam', ' morphine']",2.0,18,en,27,27_deaths_covid_covid19_suicides

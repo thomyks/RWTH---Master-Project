@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+42119,48017,41396,2569,http://data.gesis.org/claimskg/creative_work/270538b1-dfa1-5569-b96f-4dba2ad99678,"Dave McCormick is liberal, pro-Biden, pro-China.",politifact,English,False,1,"China, Dave McCormick","['China', ' Dave McCormick']",2.0,6,en,19,19_biden_vietnam_refugees_reagans

@@ -1,0 +1,3 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+19817,24740,14972,3624,http://data.gesis.org/claimskg/creative_work/41bb7ddd-2bc1-5cc7-8fca-58bd1dea2785,False infographic shows Malaysians need a fourth vaccine dose,factcheck_afp,English,False,1,infographic,['infographic'],1.0,9,en,104,104_malaysia_malaysian_malaysians_covid
+37149,42551,15998,4650,http://data.gesis.org/claimskg/creative_work/40d177ea-90bb-5959-811d-a83968aa0d7b,Malaysia has abolished Covid-19 vaccination requirements,factcheck_afp,English,False,1,"Covid-19, Malaysia","['Covid-19', ' Malaysia']",2.0,6,en,104,104_malaysia_malaysian_malaysians_covid

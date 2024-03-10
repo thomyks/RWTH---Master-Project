@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+40905,46782,41120,2293,http://data.gesis.org/claimskg/creative_work/db9105c9-98df-507b-9f86-f1c8e8ad9e4b,"The Biden-Harris administration wants to hand out $450,000 to illegal immigrants.",politifact,English,False,1,"Biden-Harris administration, illegal immigrants","['Biden-Harris administration', ' illegal immigrants']",2.0,11,en,7,7_immigration_deportations_migrants_immigrants

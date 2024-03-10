@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+27181,32451,9408,3170,http://data.gesis.org/claimskg/creative_work/bc8368f8-4a4b-5c69-b329-532d6fcd9913,"A post shared on Facebook more than 2,400 times claims ingesting palm oil can prevent infection with COVID-19, the disease caused by the new coronavirus.",checkyourfact,English,FALSE,1,"COVID-19, Facebook","['COVID-19', ' Facebook']",2.0,25,en,15,15_tea_covid19_cures_cure

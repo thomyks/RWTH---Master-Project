@@ -1,0 +1,4 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+42308,48210,43818,4991,http://data.gesis.org/claimskg/creative_work/1108ef72-ff7d-5e47-af59-407d355cc7ba,Says the April 22 jump in COVID-19 cases was related to the election.,politifact,English,False,1,"April 22, COVID-19","['April 22', ' COVID-19']",2.0,13,en,1,1_covid19_flu_outbreak_hoax
+22670,27808,12082,734,http://data.gesis.org/claimskg/creative_work/e99b048e-975a-5c56-b416-a22fe74eb774,Covid-19 cases in 2020 were actually the flu,factcheck_afp,English,FALSE,1,Covid-19,['Covid-19'],1.0,8,en,1,1_covid19_flu_outbreak_hoax
+22528,27664,11984,636,http://data.gesis.org/claimskg/creative_work/c1649c53-ae21-59c4-b553-109c4ef3bc6e,COVID-19 was in US in November 2019,factcheck_afp,English,OTHER,-1,COVID-19,['COVID-19'],1.0,7,en,1,1_covid19_flu_outbreak_hoax

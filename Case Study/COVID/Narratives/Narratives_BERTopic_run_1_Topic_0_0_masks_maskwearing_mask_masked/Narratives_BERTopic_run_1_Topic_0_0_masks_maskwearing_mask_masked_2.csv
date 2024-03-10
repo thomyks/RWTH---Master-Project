@@ -1,0 +1,4 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+114,787,15643,4295,http://data.gesis.org/claimskg/creative_work/de74ea78-44b7-5fbb-a9e9-c2fe550428e2,Grandpa vaccinated and arrested for not wearing a mask?,factcheck_afp,English,FALSE,1,,,0.0,9,en,0,0_masks_maskwearing_mask_masked
+3296,5652,24180,2635,http://data.gesis.org/claimskg/creative_work/74df30ba-d75f-51d4-8cac-7e089dc3e01f,The vaccines won’t allow me to stop wearing a mask.,fullfact,English,OTHER,-1,,,0.0,10,en,0,0_masks_maskwearing_mask_masked
+41619,47507,12575,1227,http://data.gesis.org/claimskg/creative_work/8f1b46a5-ab69-569a-8c00-2da1a42395de,Children should not wear masks or be vaccinated against Covid-19,factcheck_afp,English,MIXTURE,2,"Covid-19, wear masks","['Covid-19', ' wear masks']",2.0,10,en,0,0_masks_maskwearing_mask_masked

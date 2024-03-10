@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+24400,29656,45159,6332,http://data.gesis.org/claimskg/creative_work/14df1df2-1b0b-5601-b9d1-3446b914b250,Joe Biden uses the ATF to illegally track your gun transactions.,politifact,English,False,1,"ATF, Joe Biden","['ATF', ' Joe Biden']",2.0,11,en,17,17_amendment_biden_militia_guns

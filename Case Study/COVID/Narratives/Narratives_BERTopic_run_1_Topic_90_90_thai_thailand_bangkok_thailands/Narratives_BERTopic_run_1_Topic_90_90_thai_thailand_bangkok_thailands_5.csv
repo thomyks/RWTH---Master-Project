@@ -1,0 +1,3 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+22070,27153,12639,1291,http://data.gesis.org/claimskg/creative_work/9d6f23a5-3183-585b-a48b-1a33cc444c27,Thai king chanting Islamic invocation to get rid of coronavirus,factcheck_afp,English,FALSE,1,Thai king,['Thai king'],1.0,10,en,90,90_thai_thailand_bangkok_thailands
+53071,59459,14596,3248,http://data.gesis.org/claimskg/creative_work/e606405f-061d-5ceb-8bfd-70932be2887f,Thai king summons Muslim clerics to pray to get rid of Covid-19,factcheck_afp,English,FALSE,1,"Covid-19, Muslim, Thai king","['Covid-19', ' Muslim', ' Thai king']",3.0,12,en,90,90_thai_thailand_bangkok_thailands

@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+23792,29047,11741,393,http://data.gesis.org/claimskg/creative_work/58d430ba-20a1-500b-9682-3812ca48b23b,Boris Johnson’s father’s book The Marburg Virus sees population controlled through mandatory vaccinations,factcheck_afp,English,FALSE,1,"Boris Johnson, mandatory vaccinations","['Boris Johnson', ' mandatory vaccinations']",2.0,13,en,55,55_vaccines_covid_covid19_virus

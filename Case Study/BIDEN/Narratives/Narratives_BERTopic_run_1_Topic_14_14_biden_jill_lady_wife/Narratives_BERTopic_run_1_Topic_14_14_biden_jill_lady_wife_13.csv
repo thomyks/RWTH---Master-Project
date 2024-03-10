@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+59221,65781,15167,3819,http://data.gesis.org/claimskg/creative_work/a5b811f0-3bad-54ea-a29e-4120d3fb0f68,"Jill Biden was not at the White House to receive a Christmas tree on November 22, 2021",factcheck_afp,English,FALSE,1,"Christmas tree, Jill Biden, November 22, White House","['Christmas tree', ' Jill Biden', ' November 22', ' White House']",4.0,17,en,14,14_biden_jill_lady_wife

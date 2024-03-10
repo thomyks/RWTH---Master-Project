@@ -1,0 +1,3 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+32,223,16232,4884,http://data.gesis.org/claimskg/creative_work/b8b828d1-599a-53d2-9403-d2a19be0a4b9,"Indian villagers chase out staff and military trying to intimidate, test and vaccinate people",factcheck_afp,English,FALSE,1,,,0.0,14,en,68,68_vaccination_vaccine_vaccinate_injection
+22161,27283,12490,1142,http://data.gesis.org/claimskg/creative_work/d276ad84-976d-54f6-b69a-1ac697e15ded,Villagers attack health workers attempting to vaccinate them in India,factcheck_afp,English,FALSE,1,India,['India'],1.0,10,en,68,68_vaccination_vaccine_vaccinate_injection

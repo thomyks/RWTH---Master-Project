@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+39003,44466,27798,6253,http://data.gesis.org/claimskg/creative_work/079208bb-d947-5835-b01e-87cfe4712caa,TfL is part of a pilot whereby staff required to self-isolate can instead take daily Covid-19 tests at work.,fullfact,English,TRUE,3,"Covid-19, TfL","['Covid-19', ' TfL']",2.0,19,en,22,22_covid19_tested_testing_tests

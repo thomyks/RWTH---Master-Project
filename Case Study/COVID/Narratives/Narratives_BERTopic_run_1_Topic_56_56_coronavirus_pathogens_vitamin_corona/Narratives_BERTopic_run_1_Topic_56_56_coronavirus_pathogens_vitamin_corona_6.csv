@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+50029,56401,70606,8577,http://data.gesis.org/claimskg/creative_work/1711869c-7fa2-5819-ae02-5b63aa60e0d4,A homemade hand sanitizer made with Tito's Vodka can be used to fight the new coronavirus.,snopes,English,False,1,"Tito's Vodka, coronavirus, hand sanitizer","[""Tito's Vodka"", ' coronavirus', ' hand sanitizer']",3.0,16,en,56,56_coronavirus_pathogens_vitamin_corona

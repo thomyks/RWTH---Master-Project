@@ -1,0 +1,19 @@
+2
+25200
+30458
+57069
+9199
+http://data.gesis.org/claimskg/creative_work/e7abc090-d07b-5a76-85f8-05f3d8aa41e5
+Says President Joe Biden is trying to send taxpayer dollars to manufacturers overseas that do not abide by the same (carbon emission) standards we do at home.
+politifact
+English
+MIXTURE
+2
+"President Joe Biden, carbon emission"
+"['President Joe Biden', ' carbon emission']"
+2.0
+27
+en
+"['Says Joe Biden plans to mandate net-zero carbon emissions for homes, offices and all new buildings by 2030. That basically means no windows, no nothing.', 'Says Joe Biden has plans to ban animal agriculture and gas-powered cars.', 'Says Joe Biden will redirect the $30 billion that Donald Trump left for U.S. farmers to ‘climate change.’', 'Says Joe Biden wants American farmers to put their farmland into Gvt ‘land banks.’ Gvt would then tell farmers what ‘sustainable’ plants they could grow.']"
+"[0.6211430430412292, 0.6207117438316345, 0.6090707778930664, 0.6027182340621948]"
+"[1, 1, 2, 2]"

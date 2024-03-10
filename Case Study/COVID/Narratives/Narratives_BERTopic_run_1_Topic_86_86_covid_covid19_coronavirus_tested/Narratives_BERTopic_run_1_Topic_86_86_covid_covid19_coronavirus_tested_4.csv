@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+31980,37292,1071,1071,http://data.gesis.org/claimskg/creative_work/83514877-0353-5861-a423-904d0186b442,Port Elizabeth’s Covid cases not linked to poor drinking water,africacheck,English,FALSE,1,"Port Elizabeth, drinking water","['Port Elizabeth', ' drinking water']",2.0,10,en,86,86_covid_covid19_coronavirus_tested

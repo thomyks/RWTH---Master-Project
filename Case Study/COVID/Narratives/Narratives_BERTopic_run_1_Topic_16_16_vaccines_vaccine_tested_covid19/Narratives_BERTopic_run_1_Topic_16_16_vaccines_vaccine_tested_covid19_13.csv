@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+46817,52995,21770,225,http://data.gesis.org/claimskg/creative_work/b6342e9b-7a0d-5669-957c-b18c28e1b119,A letter sent by a Liverpool school claimed consent wasn’t needed to test children for Covid-19 during a city-wide testing scheme.,fullfact,English,OTHER,-1,"Covid-19, Liverpool school, wasn","['Covid-19', ' Liverpool school', ' wasn']",3.0,21,en,16,16_vaccines_vaccine_tested_covid19

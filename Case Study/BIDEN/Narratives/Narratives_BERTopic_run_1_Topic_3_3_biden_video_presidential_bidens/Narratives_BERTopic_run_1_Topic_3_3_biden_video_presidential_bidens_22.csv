@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+40007,45648,31707,2560,http://data.gesis.org/claimskg/creative_work/2bf7faa5-6005-515f-8af8-7b37e12ca9ae,"Joe Biden's campaign sold tickets to a virtual fireside chat in April 2020, charging donors $2,800 for access to a livestream.",truthorfiction,English,TRUE,3,"Joe Biden's campaign, fireside chat","[""Joe Biden's campaign"", ' fireside chat']",2.0,21,en,3,3_biden_video_presidential_bidens

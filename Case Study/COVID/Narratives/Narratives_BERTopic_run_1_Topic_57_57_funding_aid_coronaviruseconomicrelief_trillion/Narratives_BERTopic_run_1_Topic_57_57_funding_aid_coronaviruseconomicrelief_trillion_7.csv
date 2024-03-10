@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+23879,29135,55187,7317,http://data.gesis.org/claimskg/creative_work/0baf4818-25f0-5cb2-8818-ceba848d1b74,"There is a consensus among economists left, right, and center... that we can’t spend too much on COVID-19 relief.",politifact,English,MIXTURE,2,"COVID, consensus among economists","['COVID', ' consensus among economists']",2.0,19,en,57,57_funding_aid_coronaviruseconomicrelief_trillion

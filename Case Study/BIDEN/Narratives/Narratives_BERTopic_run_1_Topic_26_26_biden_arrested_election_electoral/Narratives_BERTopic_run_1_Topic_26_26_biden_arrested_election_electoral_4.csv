@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+54580,60987,41882,3055,http://data.gesis.org/claimskg/creative_work/af87cedc-163d-5090-8219-db6fa8fa74aa,CBS stole a photo from Latinos for Trump in Phoenix and tagged it as a Biden event.,politifact,English,False,1,"Biden, CBS, Latinos for Trump","['Biden', ' CBS', ' Latinos for Trump']",3.0,17,en,26,26_biden_arrested_election_electoral

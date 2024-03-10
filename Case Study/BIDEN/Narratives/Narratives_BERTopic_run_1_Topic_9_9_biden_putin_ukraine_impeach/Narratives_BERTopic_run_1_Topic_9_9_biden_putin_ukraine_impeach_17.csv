@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+65525,72516,28079,121,http://data.gesis.org/claimskg/creative_work/3ea138d2-e7df-57b9-ac94-4e74858b8f8c,Chinese Disinfo Falsifies Biden’s Statement on Poland Missile Strike,polygraph,English,FALSE,1,"Biden, Chinese, Disinfo, Missile, Poland, Statement, Strike","['Biden', ' Chinese', ' Disinfo', ' Missile', ' Poland', ' Statement', ' Strike']",7.0,9,en,9,9_biden_putin_ukraine_impeach

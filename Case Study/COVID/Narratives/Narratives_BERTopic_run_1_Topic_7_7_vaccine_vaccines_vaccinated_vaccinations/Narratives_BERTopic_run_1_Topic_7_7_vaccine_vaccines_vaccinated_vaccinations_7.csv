@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+25763,31024,10334,4096,http://data.gesis.org/claimskg/creative_work/2dc7f563-5c25-59e2-bde5-25b833a62b89,A Facebook post claims actor Morgan Freeman called for people to stop taking COVID-19 tests and live your life.,checkyourfact,English,FALSE,1,"COVID-19, Facebook","['COVID-19', ' Facebook']",2.0,19,en,7,7_vaccine_vaccines_vaccinated_vaccinations

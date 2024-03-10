@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+24866,30123,10550,4312,http://data.gesis.org/claimskg/creative_work/174cc06d-fe00-5e74-8af0-c4a246f84689,A post shared on Facebook claims Ugandan President Yoweri Museveni was airlifted to Germany after contracting COVID-19.,checkyourfact,English,False,1,"Facebook, contracting COVID-19","['Facebook', ' contracting COVID-19']",2.0,17,en,65,65_uganda_ugandas_ugandan_covid19

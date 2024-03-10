@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+60029,66659,31956,2809,http://data.gesis.org/claimskg/creative_work/24ba1c3e-df81-538f-ac3e-43be1f4dab45,The FDA approved a heroin-based vaccine for children to eradicate chicken pox in 2015.,truthorfiction,English,FALSE,1,"FDA, chicken pox, heroin, vaccine","['FDA', ' chicken pox', ' heroin', ' vaccine']",4.0,14,en,39,39_monkeypox_shingles_vaccine_vaccineinduced

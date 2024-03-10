@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+23888,29144,55270,7400,http://data.gesis.org/claimskg/creative_work/272305af-b5ea-5766-8040-4b28134283fb,"Under the mayor’s COVID-19 order, Kansas City churchgoers must register with the government.",politifact,English,MIXTURE,2,"COVID-19, Kansas City","['COVID-19', ' Kansas City']",2.0,13,en,8,8_vaccination_vaccine_vaccinations_vaccinated

@@ -1,0 +1,4 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+22912,28059,22956,1411,http://data.gesis.org/claimskg/creative_work/c0618a0a-4ba1-5eb7-8443-9a3e52fe2a72,People are abandoning pets due to fears of Covid-19 transmission.,fullfact,English,OTHER,-1,Covid-19,['Covid-19'],1.0,10,en,1,1_covid19_flu_outbreak_hoax
+22261,27387,21939,394,http://data.gesis.org/claimskg/creative_work/1e507276-2bca-5734-a0f5-203f9ede8481,Covid-19 can be transmitted between humans and pets.,fullfact,English,OTHER,-1,Covid-19,['Covid-19'],1.0,8,en,1,1_covid19_flu_outbreak_hoax
+22371,27500,24149,2604,http://data.gesis.org/claimskg/creative_work/7af7088b-b3aa-5d35-a925-23fdee6e38e6,You cannot catch Covid-19 from your pets.,fullfact,English,FALSE,1,Covid-19,['Covid-19'],1.0,7,en,1,1_covid19_flu_outbreak_hoax

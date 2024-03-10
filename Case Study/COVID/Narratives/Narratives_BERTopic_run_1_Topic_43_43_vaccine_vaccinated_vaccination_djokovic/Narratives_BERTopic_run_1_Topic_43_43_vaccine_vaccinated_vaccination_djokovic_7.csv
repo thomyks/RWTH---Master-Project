@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+25240,30499,47531,8704,http://data.gesis.org/claimskg/creative_work/76dece90-68b1-5506-9562-33d4d75745f5,"The COVID-19 vaccine caused Ashton Kutcher to lose vision, hearing and ability to walk.",politifact,English,False,1,"Ashton Kutcher, COVID-19 vaccine","['Ashton Kutcher', ' COVID-19 vaccine']",2.0,14,en,43,43_vaccine_vaccinated_vaccination_djokovic

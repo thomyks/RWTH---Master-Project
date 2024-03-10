@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+14789,19175,48487,617,http://data.gesis.org/claimskg/creative_work/135d598b-b37b-5047-ab40-c0b75bed599a,"You know what’s in this bill? No medical malpractice suits until 2024, even if they’re not COVID related.",politifact,English,MIXTURE,2,medical malpractice,['medical malpractice'],1.0,18,en,95,95_insurance_covid_healthinsurance_covid19related

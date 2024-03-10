@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+51355,57735,57441,9571,http://data.gesis.org/claimskg/creative_work/5a2809e6-b9f2-58e9-8360-6eb8f0655d22,George Washington mandated smallpox vaccines for the Continental Army.,politifact,English,MIXTURE,2,"Continental Army, George Washington, smallpox","['Continental Army', ' George Washington', ' smallpox']",3.0,9,en,6,6_vaccine_vaccinated_unvaccinated_biden

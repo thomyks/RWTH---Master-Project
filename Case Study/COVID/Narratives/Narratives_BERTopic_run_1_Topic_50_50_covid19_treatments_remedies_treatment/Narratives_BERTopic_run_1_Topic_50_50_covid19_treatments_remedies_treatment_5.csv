@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+44762,50814,17054,5706,http://data.gesis.org/claimskg/creative_work/e67f4df5-df4d-580a-be23-fdd184f049e7,Homeopathy medicine Aspidosperma can be used instead of oxygen when treating Covid-19 patients,factcheck_afp,English,FALSE,1,"Aspidosperma, Covid-19, Homeopathy","['Aspidosperma', ' Covid-19', ' Homeopathy']",3.0,13,en,50,50_covid19_treatments_remedies_treatment

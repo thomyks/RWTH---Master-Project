@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+39143,44643,27319,5774,http://data.gesis.org/claimskg/creative_work/ebc5e7e0-2370-52f1-8dac-6f50d34dec05,People have to pay the NHS for delivery of a new Omicron-specific Covid-19 test.,fullfact,English,OTHER,-1,"Covid-19, NHS","['Covid-19', ' NHS']",2.0,14,en,22,22_covid19_tested_testing_tests

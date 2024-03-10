@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+38637,44078,14478,3130,http://data.gesis.org/claimskg/creative_work/5894be57-11a2-5423-9b82-60ff2c4c059b,News report stated unvaccinated people will be fined for sneezing,factcheck_afp,English,FALSE,1,"News report, unvaccinated people","['News report', ' unvaccinated people']",2.0,10,en,8,8_vaccination_vaccine_vaccinations_vaccinated

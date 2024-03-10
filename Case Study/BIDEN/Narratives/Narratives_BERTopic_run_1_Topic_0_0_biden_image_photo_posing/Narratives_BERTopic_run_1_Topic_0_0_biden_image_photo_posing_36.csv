@@ -1,0 +1,3 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+41781,47671,41031,2204,http://data.gesis.org/claimskg/creative_work/5e80c3e8-3dc9-5462-b7e1-981198fd2d73,Says Jen Psaki said Joe Biden wants to protect marked people.,politifact,English,False,1,"Jen Psaki, Joe Biden","['Jen Psaki', ' Joe Biden']",2.0,11,en,0,0_biden_image_photo_posing
+40890,46767,43602,4775,http://data.gesis.org/claimskg/creative_work/4358ed06-91e5-5391-b5ff-74cdc10858b3,Photo shows Joe Biden groping Jen Psaki.,politifact,English,False,1,"Jen Psaki, Joe Biden","['Jen Psaki', ' Joe Biden']",2.0,7,en,0,0_biden_image_photo_posing

@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+24982,30240,7058,820,http://data.gesis.org/claimskg/creative_work/798c1f04-d4ec-5bfb-8f3c-2e82ccb68ca8,An image shared on Facebook claims the Food and Drug Administration (FDA) authorized Bodysphere’s two-minute COVID-19 testing kit.,checkyourfact,English,FALSE,1,"FDA, Facebook","['FDA', ' Facebook']",2.0,18,en,23,23_vaccine_vaccinated_covid19_margaret

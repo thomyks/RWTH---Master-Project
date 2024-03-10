@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+61022,67708,30113,966,http://data.gesis.org/claimskg/creative_work/4a850599-c093-5e9d-b7f4-d329ac8606ef,Condom manufacturer Durex created a coronavirus advertisement comparing face masks to condoms.,truthorfiction,English,OTHER,-1,"Condom, Durex, condoms, face masks","['Condom', ' Durex', ' condoms', ' face masks']",4.0,12,en,0,0_masks_maskwearing_mask_masked

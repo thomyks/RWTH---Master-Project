@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+57051,63552,70777,8748,http://data.gesis.org/claimskg/creative_work/047f100f-4739-5e90-a5b4-797fbd04c19c,"The swine flu vaccine used in the U.S. contains squalene, a dangerous adjuvant.",snopes,English,False,1,"U.S., adjuvant, squalene, swine flu vaccine","['U.S.', ' adjuvant', ' squalene', ' swine flu vaccine']",4.0,13,en,106,106_vaccines_strep_vaccine_streptococcal

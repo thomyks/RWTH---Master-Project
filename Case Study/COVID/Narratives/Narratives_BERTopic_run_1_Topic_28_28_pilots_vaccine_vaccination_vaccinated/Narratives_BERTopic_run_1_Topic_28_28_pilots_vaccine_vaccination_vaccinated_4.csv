@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+13262,17633,42951,4124,http://data.gesis.org/claimskg/creative_work/75ade8df-fd1d-53be-b49b-50aad4256299,The percentage of vaccinated employees at United Airlines increased after the mandate because unvaccinated employees left the company.,politifact,English,False,1,United Airlines,['United Airlines'],1.0,18,en,28,28_pilots_vaccine_vaccination_vaccinated

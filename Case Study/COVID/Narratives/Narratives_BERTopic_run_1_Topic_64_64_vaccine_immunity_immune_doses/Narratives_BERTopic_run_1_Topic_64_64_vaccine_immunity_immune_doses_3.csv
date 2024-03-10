@@ -1,0 +1,4 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+1867,3937,15046,3698,http://data.gesis.org/claimskg/creative_work/9b4b204a-7d5d-56b7-acec-280cc1c3edd0,Video shows poisonous vaccine material flowing through blood vessels,factcheck_afp,English,FALSE,1,,,0.0,9,en,64,64_vaccine_immunity_immune_doses
+21940,26943,22663,1118,http://data.gesis.org/claimskg/creative_work/7d37402f-b468-5665-ba8c-ff92b6fec13a,There is human blood in vaccines.,fullfact,English,OTHER,-1,human blood,['human blood'],1.0,6,en,64,64_vaccine_immunity_immune_doses
+4324,8013,27723,6178,http://data.gesis.org/claimskg/creative_work/baac4346-8a88-5563-b8c4-246e4960890a,The vaccine is experimental.,fullfact,English,OTHER,-1,,,0.0,4,en,64,64_vaccine_immunity_immune_doses

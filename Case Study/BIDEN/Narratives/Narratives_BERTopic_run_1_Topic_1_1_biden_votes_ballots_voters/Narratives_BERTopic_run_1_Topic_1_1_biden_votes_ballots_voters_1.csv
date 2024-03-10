@@ -1,0 +1,3 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+148,1253,17620,6272,http://data.gesis.org/claimskg/creative_work/b06334b5-05dc-5331-9e11-a7246f6ac94d,Biden's first address to congress had 11.6 million viewers,factcheck_afp,English,FALSE,1,,,0.0,9,en,1,1_biden_votes_ballots_voters
+15219,19610,57362,9492,http://data.gesis.org/claimskg/creative_work/c9e20dc4-a87b-586d-a66d-490d41caaca8,11.6 million people watched Biden’s first presidential address to Congress while far larger audiences watched Donald Trump’s speeches.,politifact,English,MIXTURE,2,Donald Trump,['Donald Trump'],1.0,18,en,1,1_biden_votes_ballots_voters

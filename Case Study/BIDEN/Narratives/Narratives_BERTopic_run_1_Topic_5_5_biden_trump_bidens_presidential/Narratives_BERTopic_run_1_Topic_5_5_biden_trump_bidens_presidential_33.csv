@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+53386,59775,51775,3905,http://data.gesis.org/claimskg/creative_work/1bb8c80f-635f-51b1-a5c7-7c9a2e64758d,Joe Biden already has what is the most progressive platform of any major party nominee in history.,politifact,English,MIXTURE,2,"Joe Biden, major party, progressive platform","['Joe Biden', ' major party', ' progressive platform']",3.0,17,en,5,5_biden_trump_bidens_presidential

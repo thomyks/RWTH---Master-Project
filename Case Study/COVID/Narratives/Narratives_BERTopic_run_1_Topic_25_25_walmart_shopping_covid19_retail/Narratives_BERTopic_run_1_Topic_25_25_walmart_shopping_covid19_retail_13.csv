@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+43506,49502,31191,2044,http://data.gesis.org/claimskg/creative_work/ba4f7d2f-749c-54d5-bfeb-b44b337c2679,Walmart promoted a COVID-19 testing site with a banner that included Pepsi's logo and slogan.,truthorfiction,English,TRUE,3,"COVID-19 testing site, Pepsi, Walmart","['COVID-19 testing site', ' Pepsi', ' Walmart']",3.0,15,en,25,25_walmart_shopping_covid19_retail

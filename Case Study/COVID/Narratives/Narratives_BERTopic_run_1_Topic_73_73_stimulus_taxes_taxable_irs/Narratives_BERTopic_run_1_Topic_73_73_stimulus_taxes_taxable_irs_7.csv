@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+60098,66735,57176,9306,http://data.gesis.org/claimskg/creative_work/0c8fbaa4-4818-588e-be48-707346330b96,Kyle Rittenhouse used his COVID-19 stimulus check to purchase the AR-15 he used in the fatal Kenosha shooting.,politifact,English,MIXTURE,2,"AR-15, COVID-19, Kenosha, Kyle Rittenhouse","['AR-15', ' COVID-19', ' Kenosha', ' Kyle Rittenhouse']",4.0,18,en,73,73_stimulus_taxes_taxable_irs

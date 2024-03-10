@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+56116,62565,11355,7,http://data.gesis.org/claimskg/creative_work/f827c06f-bbb6-5fb7-90bb-bd6c872296cd,Former Iraqi dictator Saddam Hussein discusses COVID-19 in the 1990s,factcheck_afp,English,FALSE,1,"COVID, Iraqi, Saddam Hussein, dictator","['COVID', ' Iraqi', ' Saddam Hussein', ' dictator']",4.0,10,en,1,1_covid19_flu_outbreak_hoax

@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+49201,55514,45390,6563,http://data.gesis.org/claimskg/creative_work/7d922946-ce0d-59b7-b896-70c1115da450,"Foxconn hasn't hit job targets on its massive Wisconsin factory because No. 1, you had a pandemic.",politifact,English,False,1,"Foxconn, Wisconsin, hit job","['Foxconn', ' Wisconsin', ' hit job']",3.0,17,en,18,18_pandemic_workforce_workers_unemployment

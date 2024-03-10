@@ -1,0 +1,3 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+17572,22083,40943,2116,http://data.gesis.org/claimskg/creative_work/1f66b42d-6d9c-50a8-ba3b-d87ac5cd2bcd,"While Americans pray for Paris, the government has acted on mandatory national vaccinations.",politifact,English,False,1,Paris,['Paris'],1.0,13,en,8,8_vaccination_vaccine_vaccinations_vaccinated
+7450,11726,65693,3664,http://data.gesis.org/claimskg/creative_work/45d6618e-3564-571e-bd3c-7ac685b83706,The U.S. government plans to make vaccinations mandatory for all adults.,snopes,English,False,1,U.S.,['U.S.'],1.0,11,en,8,8_vaccination_vaccine_vaccinations_vaccinated

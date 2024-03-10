@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+10658,15002,69000,6971,http://data.gesis.org/claimskg/creative_work/4ce925f2-200d-5a3f-91f6-1f9acf913c3c,"Pandemic-related shutdown orders are unconstitutional, and persons arrested for violating them can collect damages.",snopes,English,False,1,Pandemic-related,['Pandemic-related'],1.0,14,en,60,60_lockdowns_lockdown_pandemicrelated_shutdowns

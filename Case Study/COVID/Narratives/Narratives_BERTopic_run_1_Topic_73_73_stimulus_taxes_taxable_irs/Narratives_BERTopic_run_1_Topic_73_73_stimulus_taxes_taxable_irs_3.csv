@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+31489,36798,76003,1656,http://data.gesis.org/claimskg/creative_work/9d555326-c20f-5291-89f7-26e04e0cbe79,"Federal agents confiscated 3,000 U.S. COVID-19 stimulus checks at the U.S.-Mexico border.",snopes,English,OTHER,-1,"Federal agents, U.S.-Mexico border","['Federal agents', ' U.S.-Mexico border']",2.0,12,en,73,73_stimulus_taxes_taxable_irs

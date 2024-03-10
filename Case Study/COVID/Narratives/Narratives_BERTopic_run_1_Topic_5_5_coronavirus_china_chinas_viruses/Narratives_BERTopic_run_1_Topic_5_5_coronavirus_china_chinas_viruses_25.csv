@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+48587,54847,11285,171,http://data.gesis.org/claimskg/creative_work/f06f269c-1f36-5f42-8b90-10b1753ef5c6,China is acquisitioning EU companies during Corona times,eufactcheck,English,FALSE,1,"China, Corona, EU","['China', ' Corona', ' EU']",3.0,8,en,5,5_coronavirus_china_chinas_viruses

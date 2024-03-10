@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+29367,34657,69790,7761,http://data.gesis.org/claimskg/creative_work/e8f104e6-8ba4-5b1e-9f17-2fa58c91cdd9,"U.S. President Joe Biden said: Goats are like mushrooms. Because if you shoot a duck, I'm afraid of toasters.",snopes,English,False,1,"U.S. President Joe Biden, mushrooms","['U.S. President Joe Biden', ' mushrooms']",2.0,19,en,22,22_biden_bidens_shepherd_dog

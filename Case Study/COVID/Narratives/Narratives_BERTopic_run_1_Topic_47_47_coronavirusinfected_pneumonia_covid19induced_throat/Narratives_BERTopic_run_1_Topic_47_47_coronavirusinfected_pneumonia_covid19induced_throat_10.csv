@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+56093,62540,72592,1306,http://data.gesis.org/claimskg/creative_work/59718e87-1541-5fb5-ac60-485e3380cb20,"Pinkeye, or conjunctivitis, is a symptom of COVID-19.",snopes,English,MIXTURE,2,"COVID-19, Pinkeye, conjunctivitis, symptom","['COVID-19', ' Pinkeye', ' conjunctivitis', ' symptom']",4.0,8,en,47,47_coronavirusinfected_pneumonia_covid19induced_throat

@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+30028,35325,67102,5073,http://data.gesis.org/claimskg/creative_work/e31964ce-cb4b-52fe-977e-e50c01707cf6,Article reveals the Mayo Clinic's expectations for a swine flu pandemic.,snopes,English,False,1,"Mayo Clinic, swine flu","['Mayo Clinic', ' swine flu']",2.0,11,en,1,1_covid19_flu_outbreak_hoax

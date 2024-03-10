@@ -1,0 +1,3 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+19165,23997,9991,3753,http://data.gesis.org/claimskg/creative_work/e302b725-2dcf-5e10-8806-6b2645c41b4c,A post shared on Facebook claims First Lady Jill Biden was arrested for elder abuse.,checkyourfact,English,FALSE,1,Facebook,['Facebook'],1.0,15,en,14,14_biden_jill_lady_wife
+34088,39418,58796,636,http://data.gesis.org/claimskg/creative_work/fd56865f-9d4b-551d-92d7-f9b1a94418ea,Jill Biden is the oldest woman to become first lady of the United States.,snopes,English,True,3,"Jill Biden, United States","['Jill Biden', ' United States']",2.0,14,en,14,14_biden_jill_lady_wife

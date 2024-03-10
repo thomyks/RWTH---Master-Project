@@ -1,0 +1,3 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+12419,16782,45244,6417,http://data.gesis.org/claimskg/creative_work/e756aa97-a996-5ad1-b451-f93b16ee3c35,"Diesel prices jumped from $1.69 to $3.19 since Biden took office, and the president is to blame.",politifact,English,False,1,Biden took office,['Biden took office'],1.0,17,en,2,2_biden_bidens_oil_fuels
+38050,43476,13653,2305,http://data.gesis.org/claimskg/creative_work/48215dc1-ad25-5e9e-a619-3694c4dda343,Biden to blame for higher gasoline prices,factcheck_afp,English,FALSE,1,"Biden, gasoline prices","['Biden', ' gasoline prices']",2.0,7,en,2,2_biden_bidens_oil_fuels

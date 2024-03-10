@@ -1,0 +1,19 @@
+3
+25914
+31175
+47965
+95
+http://data.gesis.org/claimskg/creative_work/d41bfc6a-55d5-5c9f-a1b5-2f6e8af93789
+Says Joe Biden is following through with a fracking ban.
+politifact
+English
+MIXTURE
+2
+"Joe Biden, fracking"
+"['Joe Biden', ' fracking']"
+2.0
+10
+en
+"['Joe Biden wants to ban fracking', 'Joe Biden plans to ban fracking', ""In the 2020 presidential election, Democratic candidate Joe Biden's policy on fracking was to ban it outright."", 'Says Democratic presidential nominee Joe Biden backs a fracking ban that would cost 100,000 Wisconsin jobs', 'Says Joe Biden has plans to ban animal agriculture and gas-powered cars.', ""Says Joe Biden's plan for net-zero emissions would instantly shut down all fracking and all mining immediately in Pennsylvania.""]"
+"[0.8748716115951538, 0.8423187136650085, 0.7926197052001953, 0.7285081148147583, 0.6610003113746643, 0.6512986421585083]"
+"[1, 1, 2, 1, 1, 1]"

@@ -1,0 +1,3 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+21747,26744,22307,762,http://data.gesis.org/claimskg/creative_work/5c39b85e-e0c0-5bf2-8d71-27b74d8b89d5,It’s called the Delta Covid-19 variant because you’d have to be completely asleep to believe it.,fullfact,English,OTHER,-1,Covid-19,['Covid-19'],1.0,16,en,1,1_covid19_flu_outbreak_hoax
+3005,5357,24079,2534,http://data.gesis.org/claimskg/creative_work/5f3d2b3a-1b3f-5a71-bf80-31f4fd489e88,Covid-19 doesn’t really exist.,fullfact,English,TRUE,3,,,0.0,4,en,1,1_covid19_flu_outbreak_hoax

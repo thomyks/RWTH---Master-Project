@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+15857,20291,56808,8938,http://data.gesis.org/claimskg/creative_work/fb6b8b77-763c-51db-b04b-3a92e2a4813a,"Says all Vegas hotels but Trump’s have donated food, rooms in COVID response.",politifact,English,MIXTURE,2,donated food,['donated food'],1.0,13,en,60,60_lockdowns_lockdown_pandemicrelated_shutdowns

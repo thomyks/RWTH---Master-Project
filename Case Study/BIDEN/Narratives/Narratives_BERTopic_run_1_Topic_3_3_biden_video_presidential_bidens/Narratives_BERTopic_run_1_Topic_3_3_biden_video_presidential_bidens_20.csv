@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+35491,40838,62807,778,http://data.gesis.org/claimskg/creative_work/2eb48fee-d51a-5a7c-b7cb-7899f91bd30e,U.S. President Joe Biden said that he once took acid with the Beatles.,snopes,English,False,1,"Beatles, U.S. President Joe Biden","['Beatles', ' U.S. President Joe Biden']",2.0,13,en,3,3_biden_video_presidential_bidens

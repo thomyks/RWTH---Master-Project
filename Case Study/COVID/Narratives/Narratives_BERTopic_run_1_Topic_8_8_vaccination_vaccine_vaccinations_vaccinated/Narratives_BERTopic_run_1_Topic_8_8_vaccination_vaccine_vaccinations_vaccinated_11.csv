@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+13027,17397,41981,3154,http://data.gesis.org/claimskg/creative_work/1951d01e-5983-5707-b1b9-f22b0d88a41a,"A new medical diagnosis code has been designated for people who decline vaccines, and it will be used to help determine who will go into education camps.",politifact,English,False,1,diagnosis code,['diagnosis code'],1.0,27,en,8,8_vaccination_vaccine_vaccinations_vaccinated

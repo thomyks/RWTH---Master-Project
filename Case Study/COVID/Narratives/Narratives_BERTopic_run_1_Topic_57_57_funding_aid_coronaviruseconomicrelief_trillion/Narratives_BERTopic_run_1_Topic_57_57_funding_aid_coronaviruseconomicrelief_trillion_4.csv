@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+14693,19077,46914,8087,http://data.gesis.org/claimskg/creative_work/277bc007-deb8-5765-a178-5f4a51efca95,"The COVID economic relief package included $600 million for San Francisco, part of which goes to cover the tab for free alcohol and marijuana for the homeless.",politifact,English,False,1,San Francisco,['San Francisco'],1.0,27,en,57,57_funding_aid_coronaviruseconomicrelief_trillion

@@ -1,0 +1,3 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+3214,5569,24365,2820,http://data.gesis.org/claimskg/creative_work/b99478be-c8f8-597c-9e8f-11576685cd05,People over six foot tall are twice as likely to get coronavirus.,fullfact,English,OTHER,-1,,,0.0,12,en,12,12_coronavirus_flu_fever_cold
+22271,27397,11202,88,http://data.gesis.org/claimskg/creative_work/f1887882-3bcf-511a-941c-8ce327bc45f9,Twice as many men die from coronavirus than women,eufactcheck,English,MIXTURE,2,coronavirus,['coronavirus'],1.0,9,en,12,12_coronavirus_flu_fever_cold

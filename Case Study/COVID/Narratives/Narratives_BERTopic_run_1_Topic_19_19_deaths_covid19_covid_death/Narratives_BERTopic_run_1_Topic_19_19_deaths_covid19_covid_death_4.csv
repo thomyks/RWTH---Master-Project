@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+10877,15224,27701,6156,http://data.gesis.org/claimskg/creative_work/db402fb2-defa-5f75-b675-0e66952c9ef7,"Extreme heart care disruption has caused 30,000 excess deaths involving heart disease in England since the start of the pandemic.",fullfact,English,OTHER,-1,excess deaths,['excess deaths'],1.0,20,en,19,19_deaths_covid19_covid_death

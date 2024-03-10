@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+57413,63920,47218,8391,http://data.gesis.org/claimskg/creative_work/a164f0b9-1558-5888-937c-8a053fafac69,Sen. Raphael Warnock voted with Biden to slash Medicare spending.,politifact,English,False,1,"Biden, Medicare, Raphael Warnock, Sen.","['Biden', ' Medicare', ' Raphael Warnock', ' Sen.']",4.0,10,en,11,11_biden_medicare_obamacare_obamabiden

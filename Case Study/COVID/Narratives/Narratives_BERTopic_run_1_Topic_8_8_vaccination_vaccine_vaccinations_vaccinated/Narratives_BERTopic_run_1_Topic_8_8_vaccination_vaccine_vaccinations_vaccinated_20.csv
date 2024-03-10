@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+29730,35022,71169,9140,http://data.gesis.org/claimskg/creative_work/200f83f7-cde0-5779-81d9-82774ac71860,The government in Oklahoma is planning to detain people unless they can show proof of vaccination.,snopes,English,False,1,"Oklahoma, proof of vaccination","['Oklahoma', ' proof of vaccination']",2.0,16,en,8,8_vaccination_vaccine_vaccinations_vaccinated

@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+54998,61414,58510,350,http://data.gesis.org/claimskg/creative_work/a4fbd43d-11ed-54b2-b95d-773218752c01,"Joe Biden talked about what he described as his hairy legs during a public speech in Wilmington, Delaware.",snopes,English,True,3,"Joe Biden, Wilmington, Delaware","['Joe Biden', ' Wilmington', ' Delaware']",3.0,18,en,3,3_biden_video_presidential_bidens

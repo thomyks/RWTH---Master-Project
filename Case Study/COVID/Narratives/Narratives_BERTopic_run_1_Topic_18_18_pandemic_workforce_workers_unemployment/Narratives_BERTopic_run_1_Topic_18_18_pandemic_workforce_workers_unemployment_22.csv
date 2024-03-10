@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+53212,59601,37663,1351,http://data.gesis.org/claimskg/creative_work/857a9367-e36b-5407-a02b-d0d3d6aa0fea,"In COVID-19 crisis, only 20% of African Americans had jobs where they could work from home.",politifact,English,True,3,"20%, African Americans, COVID-19 crisis","['20%', ' African Americans', ' COVID-19 crisis']",3.0,16,en,18,18_pandemic_workforce_workers_unemployment

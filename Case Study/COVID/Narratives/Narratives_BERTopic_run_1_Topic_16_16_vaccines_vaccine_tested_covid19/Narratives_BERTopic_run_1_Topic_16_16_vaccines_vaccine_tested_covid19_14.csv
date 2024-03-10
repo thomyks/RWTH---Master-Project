@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+54531,60937,10663,4425,http://data.gesis.org/claimskg/creative_work/77879c43-ec78-5fb0-b198-affe58397adc,A viral Instagram post claims Nevada quietly reversed its decision to block HCQ prescriptions for COVID-19.,checkyourfact,English,FALSE,1,"HCQ, Instagram, Nevada","['HCQ', ' Instagram', ' Nevada']",3.0,16,en,16,16_vaccines_vaccine_tested_covid19

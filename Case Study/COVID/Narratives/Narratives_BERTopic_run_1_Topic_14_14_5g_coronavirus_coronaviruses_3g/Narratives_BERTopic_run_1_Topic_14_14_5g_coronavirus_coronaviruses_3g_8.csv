@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+37375,42790,34982,2732,http://data.gesis.org/claimskg/creative_work/a7ad35b9-3c18-5470-b9ac-504e720b1ff5,"By following the given instructions, the user can remove the coronal caller tune from the phone",Vishvanews,English,FALSE,1,"caller tune, coronal","['caller tune', ' coronal']",2.0,16,en,14,14_5g_coronavirus_coronaviruses_3g

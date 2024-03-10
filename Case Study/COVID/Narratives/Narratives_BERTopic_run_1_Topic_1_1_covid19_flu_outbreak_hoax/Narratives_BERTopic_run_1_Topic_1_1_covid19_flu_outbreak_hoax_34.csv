@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+42017,47914,41997,3170,http://data.gesis.org/claimskg/creative_work/d22e04a8-3de3-5403-85ac-dfeb3e1ab3fe,George Floyd and COVID-19 never existed.,politifact,English,False,1,"COVID-19, George Floyd","['COVID-19', ' George Floyd']",2.0,6,en,1,1_covid19_flu_outbreak_hoax

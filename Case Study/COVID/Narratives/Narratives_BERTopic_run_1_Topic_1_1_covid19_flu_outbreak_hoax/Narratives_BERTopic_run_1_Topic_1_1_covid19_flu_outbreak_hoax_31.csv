@@ -1,0 +1,3 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+34807,40144,3349,3349,http://data.gesis.org/claimskg/creative_work/3f852d7b-c420-5129-aeca-89032df8e8c1,"No, LGBTQ people in US haven’t demanded ‘first’ treatment for Covid-19",africacheck,English,FALSE,1,"Covid-19, LGBTQ","['Covid-19', ' LGBTQ']",2.0,11,en,1,1_covid19_flu_outbreak_hoax
+14272,18654,50386,2516,http://data.gesis.org/claimskg/creative_work/fe957a55-eb29-5862-9e6f-7a6a25a83eae,COVID-19 is here to stay and we need to accept that and be prepared to deal with COVID long term.,politifact,English,MIXTURE,2,COVID-19,['COVID-19'],1.0,20,en,1,1_covid19_flu_outbreak_hoax

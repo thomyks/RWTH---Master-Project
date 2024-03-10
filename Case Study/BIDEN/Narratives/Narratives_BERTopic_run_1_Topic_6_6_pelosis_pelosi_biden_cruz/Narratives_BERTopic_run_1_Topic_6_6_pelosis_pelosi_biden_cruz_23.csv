@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+51523,57905,41581,2754,http://data.gesis.org/claimskg/creative_work/9fbfe085-969c-569d-90ea-5d4573e9e992,"Clintons, Powell, and Hunter Biden have already undergone military tribunals.",politifact,English,False,1,"Clintons, Hunter Biden, military tribunals","['Clintons', ' Hunter Biden', ' military tribunals']",3.0,10,en,6,6_pelosis_pelosi_biden_cruz

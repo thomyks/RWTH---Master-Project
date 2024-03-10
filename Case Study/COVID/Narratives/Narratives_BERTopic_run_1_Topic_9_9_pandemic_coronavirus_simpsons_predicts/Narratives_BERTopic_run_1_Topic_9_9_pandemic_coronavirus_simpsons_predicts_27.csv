@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+44242,50288,61930,3770,http://data.gesis.org/claimskg/creative_work/efd14a49-bfa3-56be-bb33-1cd9539e4f9a,"In October 2020, actress Jane Fonda said the COVID-19 coronavirus pandemic was God's gift to the Left.",snopes,English,True,3,"COVID-19 coronavirus pandemic, God, Jane Fonda","['COVID-19 coronavirus pandemic', ' God', ' Jane Fonda']",3.0,17,en,9,9_pandemic_coronavirus_simpsons_predicts

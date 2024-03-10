@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+32144,37459,74100,2814,http://data.gesis.org/claimskg/creative_work/c82bc224-9a7a-57a7-8521-e3504c368186,The 1969 Woodstock music festival occurred during a pandemic as lethal as COVID-19.,snopes,English,MIXTURE,2,"1969 Woodstock music festival, COVID-19","['1969 Woodstock music festival', ' COVID-19']",2.0,13,en,1,1_covid19_flu_outbreak_hoax

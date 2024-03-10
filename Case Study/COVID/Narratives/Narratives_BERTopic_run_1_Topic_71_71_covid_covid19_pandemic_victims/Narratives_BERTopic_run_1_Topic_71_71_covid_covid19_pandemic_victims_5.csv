@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+22344,27473,11859,511,http://data.gesis.org/claimskg/creative_work/a5991220-e9b0-5412-aa23-47065e0d150f,Video shows US printing banknotes during COVID-19 pandemic,factcheck_afp,English,False,1,COVID-19 pandemic,['COVID-19 pandemic'],1.0,8,en,71,71_covid_covid19_pandemic_victims

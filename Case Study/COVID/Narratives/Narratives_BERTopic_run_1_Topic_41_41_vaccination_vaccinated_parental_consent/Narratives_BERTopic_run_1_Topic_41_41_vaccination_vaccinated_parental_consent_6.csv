@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+31580,36889,72482,1196,http://data.gesis.org/claimskg/creative_work/f7e654b3-efa0-5b4c-b063-172975aeb793,A Missouri school district asked parents to sign a COVID-19 liability waiver in advance of the 2020-2021 school year.,snopes,English,MIXTURE,2,"COVID-19, liability waiver","['COVID-19', ' liability waiver']",2.0,19,en,41,41_vaccination_vaccinated_parental_consent

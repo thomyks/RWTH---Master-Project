@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+49090,55401,28341,383,http://data.gesis.org/claimskg/creative_work/a7be7c4e-6155-543e-92ea-9a33a7b614b5,Project Veritas 'Sting' Spreads Vaccine Falsehoods,polygraph,English,FALSE,1,"Project Veritas, Sting, Vaccine","['Project Veritas', ' Sting', ' Vaccine']",3.0,6,en,64,64_vaccine_immunity_immune_doses

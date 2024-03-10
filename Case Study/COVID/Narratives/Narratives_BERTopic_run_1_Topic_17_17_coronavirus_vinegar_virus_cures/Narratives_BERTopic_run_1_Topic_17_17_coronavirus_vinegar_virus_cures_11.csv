@@ -1,0 +1,3 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+48403,54643,11378,30,http://data.gesis.org/claimskg/creative_work/853c16db-e934-5410-90ce-36c6d8fe26a2,Propolis throat spray treats coronavirus in the throat,factcheck_afp,English,FALSE,1,"Propolis, coronavirus, throat spray","['Propolis', ' coronavirus', ' throat spray']",3.0,8,en,17,17_coronavirus_vinegar_virus_cures
+16234,20691,33516,1266,http://data.gesis.org/claimskg/creative_work/2a835154-6de4-5b10-ad6d-3cf512f6223c,Mouthwash kills and cures Coronavirus,Vishvanews,English,FALSE,1,Mouthwash,['Mouthwash'],1.0,5,en,17,17_coronavirus_vinegar_virus_cures

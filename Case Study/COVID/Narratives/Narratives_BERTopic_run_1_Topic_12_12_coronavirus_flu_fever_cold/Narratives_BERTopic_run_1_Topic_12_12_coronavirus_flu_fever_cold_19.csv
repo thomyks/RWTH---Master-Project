@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+52105,58491,41076,2249,http://data.gesis.org/claimskg/creative_work/81cf846a-21c3-5712-a62a-876985a1e49e,Corona virus: Florida man arrested for robbery using cough as a weapon.,politifact,English,False,1,"Corona virus, Florida man, cough","['Corona virus', ' Florida man', ' cough']",3.0,12,en,12,12_coronavirus_flu_fever_cold

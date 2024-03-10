@@ -1,0 +1,3 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+7863,12160,62260,231,http://data.gesis.org/claimskg/creative_work/b131c261-4bd7-529c-b1ff-32c05f1f875c,St. Corona is the patron saint of plagues.,snopes,English,False,1,patron saint,['patron saint'],1.0,8,en,12,12_coronavirus_flu_fever_cold
+40670,46495,31307,2160,http://data.gesis.org/claimskg/creative_work/99d83919-c605-502e-a0a3-19bfeeb6d80a,Saint Corona is the patron saint of epidemics.,truthorfiction,English,FALSE,1,"Saint Corona, patron saint","['Saint Corona', ' patron saint']",2.0,8,en,12,12_coronavirus_flu_fever_cold

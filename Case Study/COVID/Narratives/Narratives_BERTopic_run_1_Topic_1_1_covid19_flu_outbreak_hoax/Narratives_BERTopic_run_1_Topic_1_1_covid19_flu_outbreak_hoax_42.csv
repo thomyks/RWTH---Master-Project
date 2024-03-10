@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+54815,61224,40671,1844,http://data.gesis.org/claimskg/creative_work/4895a932-e224-554a-a31f-fad18e6bdc50,"An adenovirus is a combination of viruses, gastrointestinal virus, pneumonia and COVID-19 mixed together to kill our children.",politifact,English,False,1,"COVID-19, adenovirus, pneumonia","['COVID-19', ' adenovirus', ' pneumonia']",3.0,18,en,1,1_covid19_flu_outbreak_hoax

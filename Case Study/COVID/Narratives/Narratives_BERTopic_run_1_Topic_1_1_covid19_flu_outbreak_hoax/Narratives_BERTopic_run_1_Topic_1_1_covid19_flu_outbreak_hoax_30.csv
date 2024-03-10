@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+33298,38621,6408,170,http://data.gesis.org/claimskg/creative_work/d82205ba-c8a1-5a5e-be15-6df3ec746803,An image shared on Facebook claims Game Cigars have been discontinued due to a COVID-19 outbreak at a factory that produces them.,checkyourfact,English,FALSE,1,"Cigars, Facebook","['Cigars', ' Facebook']",2.0,22,en,1,1_covid19_flu_outbreak_hoax

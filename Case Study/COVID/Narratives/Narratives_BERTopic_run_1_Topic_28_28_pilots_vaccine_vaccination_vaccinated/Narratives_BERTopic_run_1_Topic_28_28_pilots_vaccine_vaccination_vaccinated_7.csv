@@ -1,0 +1,3 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+22239,27365,21823,278,http://data.gesis.org/claimskg/creative_work/5bad13ec-512a-5a71-a8d5-6226945e3971,Israel has banned the entry of vaccinated tourists.,fullfact,English,OTHER,-1,banned the entry,['banned the entry'],1.0,8,en,28,28_pilots_vaccine_vaccination_vaccinated
+3836,6197,23477,1932,http://data.gesis.org/claimskg/creative_work/c75223e4-f552-5196-b757-8457ff028342,Some airlines are not allowing vaccinated passengers to fly.,fullfact,English,OTHER,-1,,,0.0,9,en,28,28_pilots_vaccine_vaccination_vaccinated

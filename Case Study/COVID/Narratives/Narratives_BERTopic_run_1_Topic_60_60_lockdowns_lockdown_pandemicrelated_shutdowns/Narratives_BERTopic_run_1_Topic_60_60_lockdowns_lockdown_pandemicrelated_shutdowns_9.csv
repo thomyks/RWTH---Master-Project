@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+36178,41532,15333,3985,http://data.gesis.org/claimskg/creative_work/9af263b3-e062-56f3-8fc3-317c7cfc4b6e,Pandemic lockdowns caused depletion of ozone layer,factcheck_afp,English,FALSE,1,"Pandemic lockdowns, depletion of ozone","['Pandemic lockdowns', ' depletion of ozone']",2.0,7,en,60,60_lockdowns_lockdown_pandemicrelated_shutdowns

@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+47208,53388,44089,5262,http://data.gesis.org/claimskg/creative_work/fbe78480-fb5e-5745-9ef9-f13cf76a763e,"Obama, Biden and their liberal allies oppose clean coal.",politifact,English,False,1,"Biden, Obama, clean coal","['Biden', ' Obama', ' clean coal']",3.0,9,en,2,2_biden_bidens_oil_fuels

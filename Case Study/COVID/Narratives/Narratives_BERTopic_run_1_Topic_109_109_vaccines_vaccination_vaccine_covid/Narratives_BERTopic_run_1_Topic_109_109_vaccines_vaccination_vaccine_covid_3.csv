@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+23661,28915,48594,724,http://data.gesis.org/claimskg/creative_work/c7b6bd17-f226-51e4-af23-a2aa0862989f,"Cervical cancer in Africa is fully preventable with basic education, screening and vaccines.",politifact,English,MIXTURE,2,"Africa, Cervical cancer","['Africa', ' Cervical cancer']",2.0,13,en,109,109_vaccines_vaccination_vaccine_covid

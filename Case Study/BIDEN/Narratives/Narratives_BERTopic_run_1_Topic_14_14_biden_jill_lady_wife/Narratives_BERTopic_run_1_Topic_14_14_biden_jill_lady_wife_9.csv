@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+46653,52830,72837,1551,http://data.gesis.org/claimskg/creative_work/43b75741-16b2-5760-ac1e-862a61d3c9aa,"Dr. Jill Biden is not a medical doctor, and is thus erroneously using the title, Dr.",snopes,English,MIXTURE,2,"Dr., Dr. Jill Biden, medical doctor","['Dr.', ' Dr. Jill Biden', ' medical doctor']",3.0,16,en,14,14_biden_jill_lady_wife

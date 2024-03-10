@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+42105,48003,41060,2233,http://data.gesis.org/claimskg/creative_work/439bda3b-382b-5086-ac89-a11d0c118ef0,"A Mack Trucks employee told Joe Biden, You can’t drive anything besides the country into the ground.",politifact,English,False,1,"Joe Biden, Mack Trucks","['Joe Biden', ' Mack Trucks']",2.0,17,en,0,0_biden_image_photo_posing

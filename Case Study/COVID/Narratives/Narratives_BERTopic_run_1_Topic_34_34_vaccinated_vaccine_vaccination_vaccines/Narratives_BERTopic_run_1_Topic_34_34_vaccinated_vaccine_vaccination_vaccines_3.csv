@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+31561,36870,72573,1287,http://data.gesis.org/claimskg/creative_work/70396197-4493-5e8d-838c-29d1d521d0e8,Florida will provide COVID-19 vaccinations to Canadian visitors specifically to increase tourism in the state.,snopes,English,MIXTURE,2,"COVID-19 vaccinations, Florida","['COVID-19 vaccinations', ' Florida']",2.0,15,en,34,34_vaccinated_vaccine_vaccination_vaccines

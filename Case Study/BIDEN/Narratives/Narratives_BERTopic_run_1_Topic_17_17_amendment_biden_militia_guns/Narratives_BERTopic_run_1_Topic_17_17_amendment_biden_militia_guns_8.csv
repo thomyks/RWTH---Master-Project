@@ -1,0 +1,3 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+41960,47856,42014,3187,http://data.gesis.org/claimskg/creative_work/286e671c-6ad3-53d8-a027-242847901bf0,Says Joe Biden stuck a gun in an elderly woman’s mouth at a Wisconsin rally,politifact,English,False,1,"Joe Biden, Wisconsin","['Joe Biden', ' Wisconsin']",2.0,15,en,17,17_amendment_biden_militia_guns
+19147,23977,13249,1901,http://data.gesis.org/claimskg/creative_work/11ef476a-7b36-53b8-b6fc-e70d6e84e23d,Joe Biden wants to take people's guns away,factcheck_afp,English,FALSE,1,Joe Biden,['Joe Biden'],1.0,8,en,17,17_amendment_biden_militia_guns

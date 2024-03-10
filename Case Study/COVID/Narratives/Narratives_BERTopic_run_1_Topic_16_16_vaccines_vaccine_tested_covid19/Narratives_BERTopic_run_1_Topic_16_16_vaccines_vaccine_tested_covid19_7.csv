@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+34963,40304,65899,3870,http://data.gesis.org/claimskg/creative_work/c2f634f8-6aa4-5724-a54f-8b22efab738e,The Dr Pepper Corporation released a statement denouncing mandates for the COVID-19 vaccine.,snopes,English,False,1,"COVID-19 vaccine, Dr Pepper","['COVID-19 vaccine', ' Dr Pepper']",2.0,13,en,16,16_vaccines_vaccine_tested_covid19

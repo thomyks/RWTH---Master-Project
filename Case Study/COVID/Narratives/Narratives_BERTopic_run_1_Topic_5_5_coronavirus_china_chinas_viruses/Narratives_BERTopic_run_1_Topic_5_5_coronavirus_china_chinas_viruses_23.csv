@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+43637,49649,31298,2151,http://data.gesis.org/claimskg/creative_work/9b0f5380-2444-5576-94f2-ecd0172d8f95,"Wish.com ships all products from Wuhan, China, and Wish.com products might cause you to contract coronavirus.",truthorfiction,English,MIXTURE,2,"Wish.com, Wuhan, coronavirus","['Wish.com', ' Wuhan', ' coronavirus']",3.0,16,en,5,5_coronavirus_china_chinas_viruses

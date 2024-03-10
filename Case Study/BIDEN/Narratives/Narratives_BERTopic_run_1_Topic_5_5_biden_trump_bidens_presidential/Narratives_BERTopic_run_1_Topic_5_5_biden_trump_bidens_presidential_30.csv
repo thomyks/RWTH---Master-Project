@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+52379,58765,14363,3015,http://data.gesis.org/claimskg/creative_work/4e254e72-8d87-55aa-be4c-1e08259b26f4,US President Joe Biden tweets referring India's Narendra Modi as ‘world leader’,factcheck_afp,English,FALSE,1,"India, Narendra Modi, President Joe Biden","['India', ' Narendra Modi', ' President Joe Biden']",3.0,12,en,5,5_biden_trump_bidens_presidential

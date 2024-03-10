@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+49789,56153,45407,6580,http://data.gesis.org/claimskg/creative_work/da10d266-1b75-51dd-bb11-543f26e31ab2,Black cats in Vietnam are being killed and consumed as a COVID-19 cure.,politifact,English,False,1,"Black cats, COVID-19, Vietnam","['Black cats', ' COVID-19', ' Vietnam']",3.0,13,en,1,1_covid19_flu_outbreak_hoax

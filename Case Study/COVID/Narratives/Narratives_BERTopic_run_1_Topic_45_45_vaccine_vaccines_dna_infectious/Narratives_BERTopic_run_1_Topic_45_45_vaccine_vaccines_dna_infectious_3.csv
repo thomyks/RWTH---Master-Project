@@ -1,0 +1,5 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+10287,14631,25246,3701,http://data.gesis.org/claimskg/creative_work/94929f4d-3b09-5635-baa7-eb6abd452578,The government has brought in legislation that allows DNA from Covid-19 tests to be harvested and retained.,fullfact,English,FALSE,1,Covid-19,['Covid-19'],1.0,17,en,45,45_vaccine_vaccines_dna_infectious
+2708,4801,26529,4984,http://data.gesis.org/claimskg/creative_work/f8fb3ad1-5e84-5758-8416-c0fac4dcfa61,Covid-19 vaccines can change your DNA.,fullfact,English,FALSE,1,,,0.0,6,en,45,45_vaccine_vaccines_dna_infectious
+3655,6014,25456,3911,http://data.gesis.org/claimskg/creative_work/463e2121-3882-5444-8bdf-31032854bb38,Covid-19 vaccines have the capacity to change your DNA.,fullfact,English,MIXTURE,2,,,0.0,9,en,45,45_vaccine_vaccines_dna_infectious
+3738,6098,25353,3808,http://data.gesis.org/claimskg/creative_work/97d7bd22-ab71-5550-876c-9f09b547550b,Covid-19 vaccines will change your DNA.,fullfact,English,OTHER,-1,,,0.0,6,en,45,45_vaccine_vaccines_dna_infectious

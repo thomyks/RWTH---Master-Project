@@ -1,0 +1,3 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+30964,36268,74435,88,http://data.gesis.org/claimskg/creative_work/4b79d440-5050-563d-b213-9e60a717cc58,Coronavirus has resulted in a U.S. shortage of some Dr Pepper flavors.,snopes,English,OTHER,-1,"Dr Pepper, U.S.","['Dr Pepper', ' U.S.']",2.0,12,en,56,56_coronavirus_pathogens_vitamin_corona
+37181,42586,35472,3222,http://data.gesis.org/claimskg/creative_work/a0e120c5-435d-5421-a44c-41f00cd27543,Adding pepper in your food won’t cure or prevent coronavirus,Vishvanews,English,FALSE,1,"Adding, coronavirus","['Adding', ' coronavirus']",2.0,10,en,56,56_coronavirus_pathogens_vitamin_corona

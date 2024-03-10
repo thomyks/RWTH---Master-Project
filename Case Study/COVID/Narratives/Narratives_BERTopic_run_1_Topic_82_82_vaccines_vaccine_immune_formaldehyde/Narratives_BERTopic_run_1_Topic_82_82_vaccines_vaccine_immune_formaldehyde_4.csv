@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+21533,26526,17144,5796,http://data.gesis.org/claimskg/creative_work/db0edee7-ed41-5c0d-9b5e-554188005246,Potassium chloride in vaccines is dangerous,factcheck_afp,English,FALSE,1,Potassium chloride,['Potassium chloride'],1.0,6,en,82,82_vaccines_vaccine_immune_formaldehyde

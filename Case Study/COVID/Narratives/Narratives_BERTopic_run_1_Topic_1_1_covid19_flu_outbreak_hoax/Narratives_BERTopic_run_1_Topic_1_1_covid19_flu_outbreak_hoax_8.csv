@@ -1,0 +1,4 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+15285,19681,57063,9193,http://data.gesis.org/claimskg/creative_work/de65b1e0-06ca-5c66-958d-ce7d115b9e63,COVID-19 started because we eat animals.,politifact,English,MIXTURE,2,COVID-19,['COVID-19'],1.0,6,en,1,1_covid19_flu_outbreak_hoax
+40896,46773,43607,4780,http://data.gesis.org/claimskg/creative_work/1f432a09-1089-5fd9-8d46-ac0514304157,Says COVID-19 came to the United States in 2019.,politifact,English,False,1,"COVID-19, United States","['COVID-19', ' United States']",2.0,9,en,1,1_covid19_flu_outbreak_hoax
+10215,14558,25307,3762,http://data.gesis.org/claimskg/creative_work/8cd8428d-eec4-5b68-a05e-2bc6126c4aaa,People knew about Covid-19 in 2018.,fullfact,English,FALSE,1,Covid-19,['Covid-19'],1.0,6,en,1,1_covid19_flu_outbreak_hoax

@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+31785,37095,72038,752,http://data.gesis.org/claimskg/creative_work/59d523fc-d38b-53f1-8aeb-c89033fef9b7,The blue blood of horseshoe crabs is required for the production of COVID-19 vaccines.,snopes,English,MIXTURE,2,"COVID-19 vaccines, horseshoe crabs","['COVID-19 vaccines', ' horseshoe crabs']",2.0,14,en,97,97_vaccines_vaccine_covid19_immune

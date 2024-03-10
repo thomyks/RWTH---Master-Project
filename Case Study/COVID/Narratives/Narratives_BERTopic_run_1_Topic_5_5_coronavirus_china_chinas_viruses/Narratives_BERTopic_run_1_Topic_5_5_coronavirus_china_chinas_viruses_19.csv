@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+36805,42186,16761,5413,http://data.gesis.org/claimskg/creative_work/ef129d59-d5fe-59c4-8be1-35fb50e6e759,Germans mocked China by adding 'coronavirus crown' to Karl Marx statue,factcheck_afp,English,FALSE,1,"China, Karl Marx","['China', ' Karl Marx']",2.0,11,en,5,5_coronavirus_china_chinas_viruses

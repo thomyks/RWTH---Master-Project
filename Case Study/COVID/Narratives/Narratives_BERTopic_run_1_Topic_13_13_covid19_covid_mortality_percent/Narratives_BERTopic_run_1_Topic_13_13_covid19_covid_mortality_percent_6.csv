@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+15106,19494,48181,311,http://data.gesis.org/claimskg/creative_work/27a2101e-229d-5249-9c10-779496e92e4f,"By declining the vax, I am 100% safe from adverse reactions and 99.8% safe from COVID.",politifact,English,MIXTURE,2,vax,['vax'],1.0,16,en,13,13_covid19_covid_mortality_percent

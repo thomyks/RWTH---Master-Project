@@ -1,0 +1,3 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+20673,25614,16696,5348,http://data.gesis.org/claimskg/creative_work/080c4ed7-16d1-594c-a546-dffa2ecde3ab,Video shows Biden partying for his birthday during pandemic,factcheck_afp,English,False,1,Biden,['Biden'],1.0,9,en,13,13_mask_masks_maskless_biden
+34405,39739,64778,2749,http://data.gesis.org/claimskg/creative_work/7f7a5bbb-c1ce-5d7d-8a58-4b307b7d16af,A video showed President-elect Joe Biden celebrating his birthday with a maskless group of people in 2020.,snopes,English,False,1,"Joe Biden, President-elect","['Joe Biden', ' President-elect']",2.0,17,en,13,13_mask_masks_maskless_biden

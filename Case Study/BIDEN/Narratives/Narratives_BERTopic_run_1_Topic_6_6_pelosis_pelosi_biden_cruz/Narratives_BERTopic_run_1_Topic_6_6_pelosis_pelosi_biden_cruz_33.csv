@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+61202,67900,55926,8056,http://data.gesis.org/claimskg/creative_work/eb0018ff-795d-54e5-9751-529879789ccf,Tim Ryan said I do love Nancy Pelosi and votes with Joe Biden and Pelosi 100%.,politifact,English,MIXTURE,2,"Joe Biden, Nancy Pelosi, Pelosi, Tim Ryan","['Joe Biden', ' Nancy Pelosi', ' Pelosi', ' Tim Ryan']",4.0,16,en,6,6_pelosis_pelosi_biden_cruz

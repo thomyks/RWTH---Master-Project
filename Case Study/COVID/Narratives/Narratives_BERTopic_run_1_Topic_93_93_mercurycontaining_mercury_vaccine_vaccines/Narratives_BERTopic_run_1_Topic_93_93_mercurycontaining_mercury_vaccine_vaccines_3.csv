@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+30346,35644,69269,7240,http://data.gesis.org/claimskg/creative_work/af48c498-7207-55b7-b820-034967b12fa9,"If the vial to a mercury-containing vaccine is broken, the building must be evacuated.",snopes,English,False,1,"vaccine, vial","['vaccine', ' vial']",2.0,14,en,93,93_mercurycontaining_mercury_vaccine_vaccines

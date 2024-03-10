@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+17045,21550,39423,596,http://data.gesis.org/claimskg/creative_work/2f801549-25a0-5a2d-90e9-b1778315f063,A Liability Warning Acknowledgement Form allows a worker to sue their company if they get injured from the COVID-19 vaccine.,politifact,English,False,1,COVID-19 vaccine,['COVID-19 vaccine'],1.0,20,en,8,8_vaccination_vaccine_vaccinations_vaccinated

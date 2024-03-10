@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+54309,60709,59427,1267,http://data.gesis.org/claimskg/creative_work/8ba56e5c-8232-5548-866b-ec80d0ed02ab,A colored photograph shows 27-year-old Queen Elizabeth II on the day of her coronation in 1953.,snopes,English,True,3,"27-year-old, Queen Elizabeth II, coronation in 1953","['27-year-old', ' Queen Elizabeth II', ' coronation in 1953']",3.0,16,en,0,0_masks_maskwearing_mask_masked

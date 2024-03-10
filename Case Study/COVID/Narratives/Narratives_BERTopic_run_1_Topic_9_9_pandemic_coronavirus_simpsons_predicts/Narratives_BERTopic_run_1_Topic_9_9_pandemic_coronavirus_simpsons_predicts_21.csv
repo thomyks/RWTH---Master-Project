@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+32521,37840,60867,2707,http://data.gesis.org/claimskg/creative_work/d832b54e-1f99-5e82-aca3-893e6f273e3e,Time magazine covers from 2006 and 2017 highlighted articles warning about global warming and a pandemic.,snopes,English,True,3,"Time, global warming","['Time', ' global warming']",2.0,16,en,9,9_pandemic_coronavirus_simpsons_predicts

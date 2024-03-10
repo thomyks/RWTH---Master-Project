@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+33987,39316,58591,431,http://data.gesis.org/claimskg/creative_work/29c2ce2a-9583-5ae0-ad53-2a27fba454dc,A CBS News program used a brief clip from an Italian hospital in a segment about the coronavirus crisis in New York City.,snopes,English,True,3,"CBS News, New York City","['CBS News', ' New York City']",2.0,23,en,20,20_coronavirus_covid19_bodies_italy

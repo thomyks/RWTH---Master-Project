@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+26873,32141,50704,2834,http://data.gesis.org/claimskg/creative_work/2699140c-7f5c-5e7a-9e18-eae3cd884347,"In the Obama-Biden administration, we got China to cut cyber-theft -- it's gotten significantly worse under this administration.",politifact,English,MIXTURE,2,"Biden administration, China","['Biden administration', ' China']",2.0,18,en,15,15_biden_orders_presidency_president

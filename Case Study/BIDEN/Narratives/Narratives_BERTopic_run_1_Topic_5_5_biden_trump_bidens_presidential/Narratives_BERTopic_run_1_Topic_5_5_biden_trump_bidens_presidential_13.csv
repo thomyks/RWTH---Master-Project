@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+28125,33406,49186,1316,http://data.gesis.org/claimskg/creative_work/40eef284-6472-56bd-a44c-5aa317879702,"Says Joe Biden said, You know, we have to come together. That’s why I’m running. I’m running as a proud Democrat for the Senate. So vote! Vote!",politifact,English,MIXTURE,2,"Democrat, Joe Biden","['Democrat', ' Joe Biden']",2.0,27,en,5,5_biden_trump_bidens_presidential

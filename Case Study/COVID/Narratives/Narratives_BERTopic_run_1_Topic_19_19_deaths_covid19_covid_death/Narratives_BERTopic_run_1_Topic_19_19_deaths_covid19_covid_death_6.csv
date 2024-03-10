@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+23046,28196,23561,2016,http://data.gesis.org/claimskg/creative_work/ac1489ab-10ec-5e25-9558-df59f7a447d7,Members of the Royal Family would not have attended the England vs Germany Euros 2020 match if there actually was a deadly pandemic.,fullfact,English,OTHER,-1,deadly pandemic,['deadly pandemic'],1.0,23,en,19,19_deaths_covid19_covid_death

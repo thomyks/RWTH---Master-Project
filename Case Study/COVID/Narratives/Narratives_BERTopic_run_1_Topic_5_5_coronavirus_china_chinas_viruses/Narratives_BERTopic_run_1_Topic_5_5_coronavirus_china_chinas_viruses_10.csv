@@ -1,0 +1,3 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+18761,23350,9005,2767,http://data.gesis.org/claimskg/creative_work/daf2b0b9-c9d5-5a00-8fbe-9d21e963bf57,An image shared on Facebook claims the German government billed China for 130 billion pounds in coronavirus damages.,checkyourfact,English,FALSE,1,Facebook,['Facebook'],1.0,18,en,5,5_coronavirus_china_chinas_viruses
+21692,26688,22195,650,http://data.gesis.org/claimskg/creative_work/01b92c1f-b00d-55c1-a486-4204b9c5df14,Germany has sent a bill to China for coronavirus damages.,fullfact,English,FALSE,1,China,['China'],1.0,10,en,5,5_coronavirus_china_chinas_viruses

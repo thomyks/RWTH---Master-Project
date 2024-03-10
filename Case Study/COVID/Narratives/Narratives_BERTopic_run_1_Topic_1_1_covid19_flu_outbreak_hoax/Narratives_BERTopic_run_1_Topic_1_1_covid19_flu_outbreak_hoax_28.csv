@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+32785,38105,60009,1849,http://data.gesis.org/claimskg/creative_work/591e7fc4-3bca-57c7-aa42-63a34f125516,"In December 2020, a U.S. federal omnibus spending bill that included COVID-19 relief started a 180-day countdown to an unclassified report on UFO disclosures.",snopes,English,True,3,"COVID-19, U.S.","['COVID-19', ' U.S.']",2.0,24,en,1,1_covid19_flu_outbreak_hoax

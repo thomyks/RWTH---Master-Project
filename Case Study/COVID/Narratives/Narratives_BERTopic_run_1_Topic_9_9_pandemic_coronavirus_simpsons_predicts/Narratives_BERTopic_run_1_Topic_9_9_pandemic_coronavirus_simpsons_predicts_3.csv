@@ -1,0 +1,3 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+412,2412,46399,7572,http://data.gesis.org/claimskg/creative_work/466a6c30-eb4c-56e6-9e42-7558a9837549,This whole COVID thing? It’s a SIMULATION.,politifact,English,False,1,,,0.0,7,en,9,9_pandemic_coronavirus_simpsons_predicts
+18798,23394,13738,2390,http://data.gesis.org/claimskg/creative_work/8313d618-73d2-513c-b159-f8dc391d087c,The Covid-19 pandemic is a hoax and was deliberately planned,factcheck_afp,English,FALSE,1,Covid-19 pandemic,['Covid-19 pandemic'],1.0,10,en,9,9_pandemic_coronavirus_simpsons_predicts

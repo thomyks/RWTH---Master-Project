@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+56917,63417,28237,279,http://data.gesis.org/claimskg/creative_work/f789783c-cefe-5508-9ccd-2eaf06ec6ea7,Did Serbia Ban Dog Walking Because of COVID-19?,polygraph,English,TRUE,3,"Ban, COVID, Dog Walking, Serbia","['Ban', ' COVID', ' Dog Walking', ' Serbia']",4.0,8,en,1,1_covid19_flu_outbreak_hoax

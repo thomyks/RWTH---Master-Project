@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+26431,31697,46106,7279,http://data.gesis.org/claimskg/creative_work/2a223293-cbab-5ae0-9730-d245da13ac5e,"Says Chuck Norris recorded a video in response to the Biden administration saying, Our great country and freedom are under attack.",politifact,English,False,1,"Biden administration, Chuck Norris","['Biden administration', ' Chuck Norris']",2.0,21,en,3,3_biden_video_presidential_bidens

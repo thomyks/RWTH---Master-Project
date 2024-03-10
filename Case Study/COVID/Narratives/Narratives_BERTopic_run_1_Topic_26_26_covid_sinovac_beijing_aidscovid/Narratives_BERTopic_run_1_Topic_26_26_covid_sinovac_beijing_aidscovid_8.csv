@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+41629,47517,12694,1346,http://data.gesis.org/claimskg/creative_work/dd5be43b-c08a-58a9-bf36-43e600462e4a,Guidelines for Sinovac vaccination from Beijing Vaccination Prevention Center,factcheck_afp,English,FALSE,1,"Beijing, Sinovac","['Beijing', ' Sinovac']",2.0,9,en,26,26_covid_sinovac_beijing_aidscovid

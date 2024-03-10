@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+61179,67877,806,806,http://data.gesis.org/claimskg/creative_work/1b9cb73f-8222-5fa0-9f88-8ef726cd8bdc,"Only one DFCU Bank branch in Kampala, Uganda, shut due to Covid-19, since reopened",africacheck,English,FALSE,1,"Covid-19, DFCU Bank, Kampala, Uganda","['Covid-19', ' DFCU Bank', ' Kampala', ' Uganda']",4.0,14,en,52,52_covid19_africa_africas_africans

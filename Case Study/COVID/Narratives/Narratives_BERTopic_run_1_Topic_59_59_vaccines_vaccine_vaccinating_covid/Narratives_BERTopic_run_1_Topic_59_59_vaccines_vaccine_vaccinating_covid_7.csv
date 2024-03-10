@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+64292,71192,33342,1092,http://data.gesis.org/claimskg/creative_work/055cc4f1-0e4b-5a1a-b31d-73bb1e4ec742,Children recently vaccinated with polio vaccine spreads virus causing HFMD,Vishvanews,English,FALSE,1,"Children, HFMD, polio vaccine, spreads, vaccinated","['Children', ' HFMD', ' polio vaccine', ' spreads', ' vaccinated']",5.0,10,en,59,59_vaccines_vaccine_vaccinating_covid

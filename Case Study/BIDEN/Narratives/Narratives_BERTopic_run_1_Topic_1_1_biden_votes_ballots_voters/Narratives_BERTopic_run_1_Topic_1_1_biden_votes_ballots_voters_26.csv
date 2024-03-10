@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+37388,42804,39551,724,http://data.gesis.org/claimskg/creative_work/05fefc82-a2cf-5e02-a1a1-47c43777ab92,Quotes show Joseph Stalin and Joe Biden expressed similar views about counting votes.,politifact,English,False,1,"Joe Biden, Joseph Stalin","['Joe Biden', ' Joseph Stalin']",2.0,13,en,1,1_biden_votes_ballots_voters

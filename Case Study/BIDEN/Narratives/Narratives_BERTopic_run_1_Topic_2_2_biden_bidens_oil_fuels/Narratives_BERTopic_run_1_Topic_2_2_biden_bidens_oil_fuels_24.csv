@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+38150,43579,37789,1477,http://data.gesis.org/claimskg/creative_work/97496c75-40ad-5794-b265-eb4f2af7f8d5,The Biden administration published a study concluding 4 (of) 5 new cars on the road by 2050 will still require liquid fuels.,politifact,English,True,3,"Biden administration, liquid fuels","['Biden administration', ' liquid fuels']",2.0,22,en,2,2_biden_bidens_oil_fuels

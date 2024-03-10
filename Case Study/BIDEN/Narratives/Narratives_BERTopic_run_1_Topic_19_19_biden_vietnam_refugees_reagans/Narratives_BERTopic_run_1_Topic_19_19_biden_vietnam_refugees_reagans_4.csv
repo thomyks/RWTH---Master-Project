@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+36458,41829,37338,1026,http://data.gesis.org/claimskg/creative_work/b452c343-c6c3-5120-b4d7-23835d1081ab,"Says Joe Biden said Jon Corzine is the smartest guy that I know, in terms of the economy and on finance, I really mean this.",politifact,English,True,3,"Joe Biden, Jon Corzine","['Joe Biden', ' Jon Corzine']",2.0,25,en,19,19_biden_vietnam_refugees_reagans

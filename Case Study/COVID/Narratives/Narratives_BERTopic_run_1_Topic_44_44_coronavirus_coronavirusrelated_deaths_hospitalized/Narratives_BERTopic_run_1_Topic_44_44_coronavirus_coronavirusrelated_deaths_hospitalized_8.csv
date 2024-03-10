@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+21590,26584,22401,856,http://data.gesis.org/claimskg/creative_work/abe8a1bc-871c-5d40-b01b-bb1db50e66cb,"Pubs and restaurants caused less than three per cent of coronavirus infections in the week before the 10pm curfew, official data shows.",fullfact,English,OTHER,-1,Pubs,['Pubs'],1.0,22,en,44,44_coronavirus_coronavirusrelated_deaths_hospitalized

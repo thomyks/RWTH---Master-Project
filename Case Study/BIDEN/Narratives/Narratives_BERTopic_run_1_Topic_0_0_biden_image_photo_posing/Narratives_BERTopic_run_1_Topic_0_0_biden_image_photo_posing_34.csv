@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+39897,45499,31544,2397,http://data.gesis.org/claimskg/creative_work/8efec094-5d7c-5946-bc29-413451fa4f2f,An image shows a letter from then-Senator Joe Biden to a Delaware widow named Ruth Cooke.,truthorfiction,English,TRUE,3,"Delaware, Senator Joe Biden","['Delaware', ' Senator Joe Biden']",2.0,16,en,0,0_biden_image_photo_posing

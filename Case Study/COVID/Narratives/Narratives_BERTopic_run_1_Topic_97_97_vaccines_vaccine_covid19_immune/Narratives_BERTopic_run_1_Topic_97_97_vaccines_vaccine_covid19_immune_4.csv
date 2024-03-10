@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+44528,50578,16805,5457,http://data.gesis.org/claimskg/creative_work/d8419a89-5844-50b7-a109-8856c3c19915,Greenish breast milk indicates the presence of Covid-19 antibodies,factcheck_afp,English,FALSE,1,"Covid-19, antibodies, breast milk","['Covid-19', ' antibodies', ' breast milk']",3.0,9,en,97,97_vaccines_vaccine_covid19_immune

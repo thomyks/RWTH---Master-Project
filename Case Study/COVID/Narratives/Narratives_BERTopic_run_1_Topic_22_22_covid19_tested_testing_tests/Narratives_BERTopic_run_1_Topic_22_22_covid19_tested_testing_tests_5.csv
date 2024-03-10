@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+23001,28149,23590,2045,http://data.gesis.org/claimskg/creative_work/757e007f-4c63-5441-9717-f7038ddca72e,"The average distance travelled to a Covid-19 test centre is now 5.8 miles, down from 6.4 miles last week.",fullfact,English,OTHER,-1,Covid-19,['Covid-19'],1.0,19,en,22,22_covid19_tested_testing_tests

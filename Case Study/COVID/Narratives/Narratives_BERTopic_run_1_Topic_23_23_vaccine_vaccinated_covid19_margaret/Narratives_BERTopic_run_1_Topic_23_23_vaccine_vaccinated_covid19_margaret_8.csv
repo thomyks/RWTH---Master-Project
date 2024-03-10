@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+50588,56963,9038,2800,http://data.gesis.org/claimskg/creative_work/fddc15c6-c80f-5d61-9ded-fb4dd642aec1,An image shared on Facebook purportedly shows African children with disabilities caused by vaccine trials.,checkyourfact,English,FALSE,1,"African, Facebook, vaccine trials","['African', ' Facebook', ' vaccine trials']",3.0,15,en,23,23_vaccine_vaccinated_covid19_margaret

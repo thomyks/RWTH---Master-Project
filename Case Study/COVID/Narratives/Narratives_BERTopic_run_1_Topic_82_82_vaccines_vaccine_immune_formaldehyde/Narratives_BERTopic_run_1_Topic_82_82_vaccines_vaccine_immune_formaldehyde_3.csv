@@ -1,0 +1,3 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+3447,5803,23166,1621,http://data.gesis.org/claimskg/creative_work/ce21c2f1-3f17-5bb0-a94b-f1d79df2bee5,Glyphosate is in vaccines.,fullfact,English,OTHER,-1,,,0.0,4,en,82,82_vaccines_vaccine_immune_formaldehyde
+39520,45055,26319,4774,http://data.gesis.org/claimskg/creative_work/a9503c57-6dc0-5266-aae1-60f4e76cd37f,Glutaraldehyde is in vaccines and is poisonous if ingested and causes birth defects in animals.,fullfact,English,FALSE,1,"Glutaraldehyde, birth defects","['Glutaraldehyde', ' birth defects']",2.0,15,en,82,82_vaccines_vaccine_immune_formaldehyde

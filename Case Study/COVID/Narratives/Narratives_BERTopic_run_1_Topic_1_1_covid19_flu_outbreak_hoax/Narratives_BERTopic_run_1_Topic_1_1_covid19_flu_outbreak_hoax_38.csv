@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+46830,53008,73249,1963,http://data.gesis.org/claimskg/creative_work/c2de9db1-c8e2-578f-82a1-3f842e734264,The CDC is setting up COVID-19 containment camps called green zones.,snopes,English,MIXTURE,2,"CDC, COVID, green zones","['CDC', ' COVID', ' green zones']",3.0,11,en,1,1_covid19_flu_outbreak_hoax

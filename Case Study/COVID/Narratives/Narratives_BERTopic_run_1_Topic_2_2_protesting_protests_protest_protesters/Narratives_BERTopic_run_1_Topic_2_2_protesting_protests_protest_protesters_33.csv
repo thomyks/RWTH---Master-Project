@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+41720,47609,42295,3468,http://data.gesis.org/claimskg/creative_work/7f6b8429-9384-5277-9da7-4f8d5c6ebe55,"A banner with a swastika, Trump and Pence is from a Michigan coronavirus protest.",politifact,English,False,1,"Michigan, swastika","['Michigan', ' swastika']",2.0,14,en,2,2_protesting_protests_protest_protesters

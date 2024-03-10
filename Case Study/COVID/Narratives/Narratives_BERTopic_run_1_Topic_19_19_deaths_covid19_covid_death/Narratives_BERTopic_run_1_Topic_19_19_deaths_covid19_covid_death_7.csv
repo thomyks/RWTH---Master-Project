@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+27742,33017,45461,6634,http://data.gesis.org/claimskg/creative_work/d83eba6f-41d1-59a8-9043-3cd5e224c770,"If COVID-19 was real, the Duke and Duchess of Cambridge wouldn’t have been allowed to join 50,000 other football fans inside a stadium.",politifact,English,False,1,"COVID-19, Duchess of Cambridge","['COVID-19', ' Duchess of Cambridge']",2.0,23,en,19,19_deaths_covid19_covid_death

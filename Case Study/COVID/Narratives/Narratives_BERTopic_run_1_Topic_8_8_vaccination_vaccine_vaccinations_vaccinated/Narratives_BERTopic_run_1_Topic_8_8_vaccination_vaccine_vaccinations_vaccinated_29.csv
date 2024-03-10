@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+45959,52126,26761,5216,http://data.gesis.org/claimskg/creative_work/320f445b-5990-56c1-8b5d-828f664bee0e,New gates and QR scanners in a Sainsbury’s store are for vaccine passports.,fullfact,English,FALSE,1,"QR, Sainsbury’s, vaccine passports","['QR', ' Sainsbury’s', ' vaccine passports']",3.0,13,en,8,8_vaccination_vaccine_vaccinations_vaccinated

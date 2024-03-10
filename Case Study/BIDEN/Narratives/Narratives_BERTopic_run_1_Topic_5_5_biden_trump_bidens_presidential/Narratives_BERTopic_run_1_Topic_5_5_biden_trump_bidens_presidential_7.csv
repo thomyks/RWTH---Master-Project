@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+12446,16809,45335,6508,http://data.gesis.org/claimskg/creative_work/c03edd09-6f8b-5017-a40f-527872edcee3,"Says Joe Biden said, I don’t know what I’m signing, while signing a document.",politifact,English,False,1,Joe Biden,['Joe Biden'],1.0,14,en,5,5_biden_trump_bidens_presidential

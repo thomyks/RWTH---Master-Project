@@ -1,0 +1,2 @@
+Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,claim,text,organization,lang_name,rating_label,rating_value,entity_strings,entities,nr_entities,num_words,probable_lang,Topic,Topic Name
+59519,66094,75678,1331,http://data.gesis.org/claimskg/creative_work/99b3d287-688f-5700-b20f-3a5fee950367,Consuming an orange flambéed in brown sugar will restore a person’s loss of smell following COVID-19 infection.,snopes,English,OTHER,-1,"COVID, brown sugar, flambéed, loss of smell","['COVID', ' brown sugar', ' flambéed', ' loss of smell']",4.0,17,en,15,15_tea_covid19_cures_cure
